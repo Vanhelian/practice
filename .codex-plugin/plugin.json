@@ -1,0 +1,29 @@
+{
+  "name": "consistent-illustrations",
+  "version": "1.0.0",
+  "description": "Иллюстрации в едином художественном стиле по четырём встроенным визуальным референсам.",
+  "author": {
+    "name": "Vanhelian"
+  },
+  "repository": "https://github.com/Vanhelian/practice",
+  "keywords": [
+    "illustration",
+    "images",
+    "style",
+    "references",
+    "иллюстрации",
+    "референсы"
+  ],
+  "skills": "./.agents/skills/",
+  "interface": {
+    "displayName": "Иллюстрации в едином стиле",
+    "shortDescription": "Единый стиль по четырём визуальным образцам",
+    "longDescription": "Генерация иллюстраций по текущему описанию сцены с четырьмя встроенными референсами. По умолчанию: 16:9, низкая детализация, мягкий свет, естественная асимметрия и запрет аниме.",
+    "developerName": "Vanhelian",
+    "category": "Design",
+    "defaultPrompt": [
+      "Нарисуй сцену в стиле встроенных референсов",
+      "Создай серию иллюстраций в едином стиле"
+    ]
+  }
+}
